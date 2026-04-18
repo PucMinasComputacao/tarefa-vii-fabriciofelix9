@@ -5,12 +5,12 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Fabricio Felix Gomes 
+- Matricula: 918281
 
 ## Print do console do navegador
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](<Captura de tela 2026-04-18 140122.png>)
 
 
 
